@@ -4,8 +4,8 @@ function Footer() {
 
     return (
         <>
-            <section className="footer-area">
-                <div className="container position-relative">
+            <section className="footer-area ">
+                <div className="container position-relative overflow-hidden">
                     <div className="row">
                         <div className="col-lg-4 col-md-6 col-sm-6 col-9">
                             <h2>Contact Us</h2>
